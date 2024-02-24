@@ -48,8 +48,8 @@ const Demo = () => {
   };
 
   return (
-    <section className="mt-8 w-full max-w-xl">
-      <div className="text-center py-10 px-4">
+    <section className="w-full max-w-xl">
+      <div className="text-center mb-8 ">
       <a href="#" className=" text-center bg-gradient-to-r from-blue-500 to-cyan-500 text-transparent bg-clip-text text-xl hover:underline">Simplify your reading by just entering the URL</a>
       </div>
       {/* Search */}
